@@ -1,2 +1,2 @@
 # Java-codes-
-simple JAva codes
+simple Java codes
